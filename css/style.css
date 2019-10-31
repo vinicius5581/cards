@@ -1,0 +1,19 @@
+.cards {
+    display: flex;
+}
+
+.card {
+    border: 1px solid black;
+    width: 80px;
+    height: 120px;
+}
+
+.card--red {
+    color: red;
+    border-color: red;
+}
+
+.card--black {
+    color: black;
+    border-color: black;
+}
